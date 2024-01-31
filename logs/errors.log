@@ -1,0 +1,22 @@
+[31mfatal[39m: Error en consultar productos: TypeError: prods.each is not a function
+[31mfatal[39m: Error en consultar productos: TypeError: prods.each is not a function
+[31mfatal[39m: Error en consultar productos: TypeError: prods.each is not a function
+[31mfatal[39m: Error en consultar productos: TypeError: prods.each is not a function
+[31mfatal[39m: Error en registrar usuario: TypeError: req.logger.degub is not a function
+[31mfatal[39m: Error en registrar usuario: TypeError: req.logger.degub is not a function
+[31mfatal[39m: Error en registrar usuario: TypeError: req.logger.degub is not a function
+[31mfatal[39m: Error en registrar usuario: TypeError: req.logger.degub is not a function
+[31mfatal[39m: Error en registrar usuario: TypeError: req.logger.degub is not a function
+[31mfatal[39m: Error en crear producto llave duplicada: MongoServerError: E11000 duplicate key error collection: test.products index: code_1 dup key: { code: "superTest" }
+[31mfatal[39m: Error en crear producto llave duplicada: MongoServerError: E11000 duplicate key error collection: test.products index: code_1 dup key: { code: "superTest" }
+[31mfatal[39m: Error en crear producto llave duplicada: MongoServerError: E11000 duplicate key error collection: test.products index: code_1 dup key: { code: "supertest" }
+[31mfatal[39m: Error en consultar usuario: CastError: Cast to ObjectId failed for value "cart" (type string) at path "_id" for model "users"
+[31mfatal[39m: Error al generar ticket: ReferenceError: total is not defined
+[31mfatal[39m: Error al generar ticket: ReferenceError: total is not defined
+[31mfatal[39m: Error al generar ticket: MongoServerError: E11000 duplicate key error collection: test.tickets index: code_1 dup key: { code: "20240125003849" }
+[31mfatal[39m: Error en consultar usuario: CastError: Cast to ObjectId failed for value "tickets" (type string) at path "_id" for model "users"
+[31mfatal[39m: Error en consultar usuario: CastError: Cast to ObjectId failed for value "tickets" (type string) at path "_id" for model "users"
+[31mfatal[39m: Error en eliminar usuario: CastError: Cast to ObjectId failed for value "asdasdasdlaksdñlas" (type string) at path "_id" for model "users"
+[31mfatal[39m: Error en eliminar usuario: CastError: Cast to ObjectId failed for value "asdasdasdlaksdñlas" (type string) at path "_id" for model "users"
+[31mfatal[39m: Error en eliminar usuario: CastError: Cast to ObjectId failed for value "65b3132eebf407ecbdf46f29s" (type string) at path "_id" for model "users"
+[31mfatal[39m: Error en crear producto: ValidationError: title: Path `title` is required., description: Path `description` is required., price: Path `price` is required., stock: Path `stock` is required., category: Path `category` is required., code: Path `code` is required.
